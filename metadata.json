@@ -1,0 +1,7 @@
+{
+  "name": "Warehouse Register",
+  "description": "Offline warehouse register app for Cash Receipts, Cash Give, Orders (Cash & Credit Sale), Goods Return, Daily History, and Bluetooth & USB Thermal Printing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
